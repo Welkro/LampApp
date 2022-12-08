@@ -23,7 +23,7 @@ public class LampApp {
 } // End of LampApp 
 
 
-
+//Start of Lamp class
 class Lamp {
 	
 	public boolean isOn;
