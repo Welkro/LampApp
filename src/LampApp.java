@@ -60,7 +60,7 @@ class Lamp {
 		isOn = false;
 	}
 	
-	
+	//Method for printing data
 	public void printData()
 	{
 		System.out.println("Lamp");
