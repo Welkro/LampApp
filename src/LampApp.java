@@ -4,7 +4,7 @@ public class LampApp {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		Lamp lamp1 = new Lamp("LED", true);
+		Lamp lamp1 = new Lamp("LED", true);   
 		lamp1.printData();
 		
 		
@@ -75,7 +75,7 @@ class Lamp {
 		}
 		
 	}
-	
+	//Method for changing values
 	public void changeValues(boolean isOn, String brand) {
      
 
